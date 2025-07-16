@@ -19,5 +19,5 @@ let news1 = str.split("").reverse().join("").split(" ").reverse().join(" ");
 let news3 = str.split(" ").reverse().join(" ");
 
 console.log(news)
-console.log(news1)
+//console.log(news1)
 //console.log(news3)
